@@ -1,14 +1,16 @@
 {
-  "author": "",
-  "name": "my_module",
-  "version": "0.0.0",
+  "author": "Ritchie Martori",
+  "name": "jtab",
+  "version": "0.1.0",
   "repository": {
     "url": ""
   },
   "engines": {
-    "node": ">= 0.6.x"
+    "node": ">= 0.6.0"
   },
   "main":"index",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "uglify-js": "*"
+  }
 }

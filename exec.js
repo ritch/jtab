@@ -1,5 +1,5 @@
 setInterval(function() {
-  require('child_process').exec('node index.js', function(err, out) {
+  require('child_process').exec('node jtab.js', function(err, out) {
     // clear
     process.stdout.write('\033[2J\033[0;0H'); 
     // display

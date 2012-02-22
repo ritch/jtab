@@ -1,3 +1,4 @@
+module.exports = 
 function jtab(data) {
   if(data && data.length) {
     var headers = {}
