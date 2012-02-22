@@ -83,4 +83,4 @@ Convert JSON `Array`s into `<table>`s.
     
 **output**
 
-![example](http://s17.postimage.org/slxst3s71/Screen_shot_2012_02_22_at_7_44_46_AM.png)
+![example](http://s7.postimage.org/di8i8k7cb/Screen_shot_2012_02_22_at_7_44_46_AM.png)
